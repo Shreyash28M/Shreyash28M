@@ -13,6 +13,18 @@ i'm a devops engineer
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyash28M&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Shreyash28M/Shreyash28M/blob/output/snake.svg" />
+  <img src="https://github.com/Shreyash28M/Shreyash28M/blob/output/snake-dark.svg" />
+</p>
+
+## ⚡ Neon Snake
+
+<p align="center">
+  <img src="https://github.com/Shreyash28M/Shreyash28M/blob/output/snake-neon.svg" />
+</p>
 
 
 ### ✍️ Random Dev Quote
