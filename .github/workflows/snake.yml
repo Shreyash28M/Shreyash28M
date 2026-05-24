@@ -19,6 +19,8 @@ jobs:
           github_user_name: Shreyash28M
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-rainbow.svg?palette=github
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
