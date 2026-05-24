@@ -20,11 +20,6 @@ i'm a devops engineer
   <img src="https://github.com/Shreyash28M/Shreyash28M/blob/output/snake-dark.svg" />
 </p>
 
-## ⚡ Neon Snake
-
-<p align="center">
-  <img src="https://github.com/Shreyash28M/Shreyash28M/blob/output/snake-neon.svg" />
-</p>
 
 
 ### ✍️ Random Dev Quote
