@@ -14,12 +14,9 @@ i'm a devops engineer
 
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Shreyash28M/Shreyash28M/blob/output/snake.svg" />
-  <img src="https://github.com/Shreyash28M/Shreyash28M/blob/output/snake-dark.svg" />
-</p>
-
+<div align="center">
+![snake gif](https://github.com/Shreyash28M/Shreyash28M/blob/output/github-snake-dark.svg)
+</div>
 
 
 ### ✍️ Random Dev Quote
