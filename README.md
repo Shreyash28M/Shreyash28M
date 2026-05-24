@@ -41,5 +41,19 @@ I'm Shreyash Moundekar, a passionate DevOps Engineer with a love for cloud compu
 
 ---
 
+## 🚀 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### [ Terraform-Project ](https://github.com/Shreyash28M/Terraform-Project)
+<h3> Terraform 3-Tier Project</h3>
+
+I built a simple 3-tier architecture to understand how production systems are structured — including web, application, and database layers.
+
+- **Tech Stack** : AWS (EC2  VPC  IAM  RDS) • Terraform • Linux • Docker • Kubernetes (EKS)
+
+- Features:
+Classic 2D platformer gameplay
+Player controls and obstacle interactions
+Dynamic animations and scoring system
+
+---
+
