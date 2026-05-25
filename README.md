@@ -1,60 +1,86 @@
-# 💫 About Me:
-I'm Shreyash Moundekar, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
+<h1 align="center">Hi 👋, I'm Shreyash</h1>
+<h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | Terraform</h3>
 
-<!--<p align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAwcmlyajN3N3FjY3MzaGY4bmkwNWJ6bTdkYjM0ZW9zM2R3cHFpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" width="400"/>
-</p>!-->
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shreyash-moundekar-DevOps" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyash-moundekar-DevOps" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/shreyash_m_11" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyash_m_11" height="30" width="40" />
-</a>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code+%7C+Terraform;Building+Scalable+Systems&center=true&width=500&height=45">
 </p>
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- 
+---
 
-## 💻  Tools & Technologies:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)  ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)  ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+## 👨‍💻 About Me
+
+- 🚀 Passionate about **DevOps & Cloud Engineering**
+- ☁️ Working with **AWS, Docker, Kubernetes, Terraform**
+- 🔧 Love building **scalable & production-ready infrastructure**
+- 🎯 Goal: Become a **Production-Level DevOps Engineer**
+- 📍 India | Open to opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,jenkins,git,github,bash" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🚀 Terraform 3-Tier Architecture
+ ## Project : Super Mario
+- 🏗 Designed and deployed **production-style AWS infrastructure**
+- ⚙️ Includes: **VPC, EC2, ALB, RDS**
+- 🔐 Implemented **IAM roles & Security Groups**
+- 📈 Built using **modular Terraform code**
+
+🔗 Project Link:  
+### https://github.com/Shreyash28M/Terraform-Project
+---
 
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Shreyash28M/Shreyash28M/blob/output/github-snake-dark.svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shreyash28m&color=green&style=flat-square)
+## 🐍 Contribution Snake ![snake gif](https://github.com/Shreyash28M/Shreyash28M/blob/output/github-snake-dark.svg) ![Visitor Count](https://komarev.com/ghpvc/?username=shreyash28m&color=green&style=flat-square)
 
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyash28M&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyash28M&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- 🔄 CI/CD Pipelines (Jenkins & GitHub Actions)
+- 📦 Kubernetes Advanced Concepts
+- 📊 Monitoring (Prometheus & Grafana)
+
+---
+
+## 📈 DevOps Roadmap
+
+- ✅ AWS Basics  
+- ✅ Linux  
+- ✅ Docker  
+- ✅ Kubernetes  
+- ✅ Terraform  
+- 🔄 CI/CD (In Progress)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shreyash-moundekar-devops" target="blank">LinkedIn</a> |
+  <!--a href="https://naukri.com/your-profile" target="blank">Naukri</a!--> |
+  <a href="mailto:shreyashmoundekar28@gmail.com"> Email Me</a>
+</p>
 
 
 ---
 
-## 🚀 Featured Projects
-
-### [ Terraform-Project ](https://github.com/Shreyash28M/Terraform-Project)
-<h3> Terraform 3-Tier Project</h3>
-
-I built a simple 3-tier architecture to understand how production systems are structured — including web, application, and database layers.
-
-- **Tech Stack** : AWS (EC2  VPC  IAM  RDS) • Terraform • Linux • Docker • Kubernetes (EKS)
-
-- Features:
-Classic 2D platformer gameplay
-Player controls and obstacle interactions
-Dynamic animations and scoring system
-
----
-
+⭐️ From [Shreyash](https://github.com/Shreyash28M)
